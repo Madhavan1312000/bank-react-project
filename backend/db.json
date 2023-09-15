@@ -1,0 +1,131 @@
+{
+  "bank": [
+    {
+      "id": 1,
+      "bankname": "Bank_Of_India",
+      "image": "https://logotaglines.com/wp-content/uploads/2016/08/bank-of-india-logo-1.png"
+    },
+    {
+      "id": 2,
+      "bankname": "Indian_Bank",
+      "image": "https://logotaglines.com/wp-content/uploads/2016/08/Indian-Bank-Logo.jpg"
+    },
+    {
+      "id": 3,
+      "bankname": "ICICI_Bank",
+      "image": "https://ibsintelligence.com/wp-content/uploads/2023/03/ICICI-Bank.jpg"
+    }
+  ],
+  "ICICI_Bank": [
+    {
+      "name": "Pavi",
+      "email": "pavi@456",
+      "accno": "45678901",
+      "password": "pavi456",
+      "balance": 2500,
+      "id": 1
+    },
+    {
+      "name": "Madhavan",
+      "email": "madhavan@123",
+      "accno": "12345678",
+      "password": "madhavan123",
+      "balance": 3100,
+      "id": 2
+    },
+    {
+      "name": "Dhaakshi",
+      "email": "dhaakshi@345",
+      "accno": "23459087",
+      "password": "dhaakshi345",
+      "balance": 8000,
+      "id": 3
+    }
+  ],
+  "Bank_Of_India": [
+    {
+      "name": "Siva",
+      "email": "siva@345",
+      "accno": "34567890",
+      "password": "siva345",
+      "balance": 1900,
+      "id": 1
+    },
+    {
+      "name": "Dharani",
+      "email": "dharani@678",
+      "accno": "12897890",
+      "password": "dharani678",
+      "balance": 2000,
+      "id": 2
+    },
+    {
+      "name": "Meenal",
+      "email": "meenal@567",
+      "accno": "23458907",
+      "password": "meenal567",
+      "balance": 200,
+      "id": 3
+    }
+  ],
+  "Indian_Bank": [
+    {
+      "name": "Raja",
+      "email": "raja@890",
+      "accno": "34567854",
+      "password": "raja890",
+      "balance": 2000,
+      "id": 1
+    },
+    {
+      "name": "Dhaarani",
+      "email": "dhaarani@890",
+      "accno": "34567866",
+      "password": "dhaarani890",
+      "balance": 1500,
+      "id": 2
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Renu",
+      "email": "renu@123",
+      "phone": "8940017890",
+      "bankname": "Bank_Of_India",
+      "password": "renu123"
+    },
+    {
+      "name": "Punitha",
+      "email": "punitha@345",
+      "password": "punitha345",
+      "phone": "7865456789",
+      "bankname": "Indian_Bank",
+      "id": 2
+    },
+    {
+      "name": "Purusoth",
+      "email": "purusoth@789",
+      "password": "purusoth789",
+      "phone": "6789564356",
+      "bankname": "ICICI_Bank",
+      "id": 3
+    },
+    {
+      "name": "Raji",
+      "email": "raji@567",
+      "password": "raji567",
+      "phone": "7865789066",
+      "bankname": "ICICI_Bank",
+      "id": 4
+    },
+    {
+      "name": "Raju",
+      "email": "raju@567",
+      "password": "raju567",
+      "phone": "7867567890",
+      "bankname": "Indian_Bank",
+      "id": 5
+    }
+  ]
+}

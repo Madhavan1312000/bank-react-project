@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#maindiv{
+    height: 518px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+}
+#subdiv{
+    height: 518px;
+    width: 98%;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/585/761/desktop-wallpaper-backgrounds-bank-bank-afari-bank-account.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 600px;
+    padding-top: 200px;
+}
+#subdiv>div{
+    height: 38px;
+    width: 20%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/010/518/840/original/digital-finance-and-banking-service-in-futuristic-background-bank-building-with-online-payment-transaction-secure-money-and-financial-innovation-technology-vector.jpg");
+    /* box-shadow: 2px 2px 8px lightseagreen; */
+    border-radius: 5px;
+    border: 1px solid rgb(88, 178, 207);
+
+}
+#subdiv>div>a{
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
+    color: antiquewhite;
+    transform: scale(1);
+}
+#subdiv>div>a:hover{
+
+    transform: scale(1.1);
+    transition: 0s;
+    font-weight: 600;
+}
